@@ -22,7 +22,7 @@
 
 ### Teaching Assistants:
 * **Head TA:**
-  * [Hossein Bazmandegan](https://github.com/HB-2000)
+  * [Hossein Bazmandegan (HB)](https://github.com/HB-2000)
 * **Coordinator TA:**
   * [Parsa KamaliPour](https://github.com/benymaxparsa)
 * **TA:**
