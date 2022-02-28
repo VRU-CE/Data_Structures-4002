@@ -24,7 +24,7 @@
 * **Head TA:**
   * [Hossein Bazmandegan (HB)](https://github.com/HB-2000)
 * **Coordinator TA:**
-  * [Parsa KamaliPour](https://github.com/benymaxparsa)
+  * [Seyed Parsa KamaliPour](https://github.com/benymaxparsa)
 * **TA:**
   * [Cena Ashoori](https://github.com/CenaAshoori)
   * [Mohammad Mehdi Afkhami](https://github.com/mohmehdi)
