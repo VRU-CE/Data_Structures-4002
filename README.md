@@ -32,4 +32,4 @@
   * [Ali Kermanshahian](https://github.com/kermanshahianAli)
   * [Reyhane Alizade](https://github.com/missrea1457)
   * [Mohammad Lashkari](https://github.com/MohammadLsk)
-  * [Sadegh Gholamrezaie](https://github.com/sadegh-gholamrezaii)
+  * [Sadegh Gholamrezaii](https://github.com/sadegh-gholamrezaii)
