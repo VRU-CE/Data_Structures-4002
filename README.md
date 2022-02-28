@@ -31,5 +31,5 @@
   * [Mohamad Momeni](https://github.com/mohamadm0meni)
   * [Ali Kermanshahian](https://github.com/kermanshahianAli)
   * [Reyhane Alizade](https://github.com/missrea1457)
-  * [Mohammad Lashkari]()
+  * [Mohammad Lashkari](https://github.com/MohammadLsk)
   * [Sadegh Gholamrezaie]()
